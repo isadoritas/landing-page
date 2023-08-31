@@ -6,4 +6,4 @@
 
 For this project, I created an entire web page based on a design that was provided to me. I endeavored to closely replicate the design below:
 
-<img src="./images/01.png">
+<img src="01.png">
